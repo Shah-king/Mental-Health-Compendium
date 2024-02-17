@@ -35,18 +35,18 @@ function Homepage(){
                 <div className="hotlines">
                     <h1>Online Therapy</h1>
                     <ul>
-                        <li>Filler option</li>
-                        <li>Filler option</li>
-                        <li>Filler option</li>
+                        <li>Talkspace</li>
+                        <li>Amwell</li>
+                        <li>BetterHelp</li>
                     </ul>
                 </div>
 
                 <div className="hotlines">
                     <h1>Mental Health Information</h1>
                     <ul>
-                        <li>Filler option</li>
-                        <li>Filler option</li>
-                        <li>Filler option</li>
+                        <li><a href="https://www.samhsa.gov/mental-health">SAMHSA</a></li>
+                        <li><a href="https://www.cdc.gov/mentalhealth/learn/index.htm">CDC</a></li>
+                        <li><a href="https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response">WHO</a></li>
                     </ul>
                 </div>
 
