@@ -17,8 +17,9 @@ function AboutUs(){
                         </div>
                         </div>
                             </li> 
-                        <li><a href="aboutus">About Us</a></li> 
-                    </ul>        
+                        <li><a href="aboutus">About Us</a></li>
+                        <li></li>
+                    </ul>       
                 </div>
             </div>
         </section>
