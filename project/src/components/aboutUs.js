@@ -11,9 +11,9 @@ function AboutUs(){
                         <li><a href="home">Home</a></li>
                         <li><div className='dropdown'><button className="dropbtn">Jump To</button>
                         <div className='dropdown-content'>
-                            <a href='#'>List of hotlines</a>
-                            <a href='#'>Online Therapy</a>
-                            <a href='#'>Mental Health Information</a>
+                            <a href='home#hotlines'>List of hotlines</a>
+                            <a href='home#online-therapy'>Online Therapy</a>
+                            <a href='home#mh-info'>Mental Health Information</a>
                         </div>
                         </div>
                             </li> 
