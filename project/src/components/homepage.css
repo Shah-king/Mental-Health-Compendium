@@ -4,9 +4,9 @@
         padding: 250px;
         font-size: 45px;
         font-weight: bold;
-
+        color: black;
         background-image: url('./assets/helth.jpg');
-        background-size: cover;
+        background-size:cover;
     }
 }
 
@@ -32,6 +32,53 @@
     
         :hover{
             background-color: #44a279;
+        }
+
+        .dropdown{
+            float: left;
+            overflow: hidden;
+        }
+
+        button.dropbtn{
+            font-size: 16px;
+            border: none;
+            outline: none;
+            color: white;
+            padding: 25px;
+            background-color: inherit;
+            font-family: inherit;
+            margin: 0;
+        }
+
+        button.dropbtn:hover{
+            background-color: #44a279;
+        }
+
+        .dropdown-content{
+            display: none;
+            position: absolute;
+            background-color: #5DBB93;
+            box-shadow: 2px 7px 7px black;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+
+            a{
+                float: none;
+                color: white;
+                padding: 12px 16px;
+                text-decoration: none;
+                display: block;
+                text-align: left;
+            }
+
+            a:hover{
+                background-color: #94d2b8;
+            }
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
         }
     }
 }

@@ -11,7 +11,14 @@ function Homepage(){
                 <div className='navbar'>
                     <ul>
                         <li><a href="home">Home</a></li>
-                        <li><a href="jumpto">Jump To </a></li> {/* this buttons gonna be a dropdown */}
+                        <li><div className='dropdown'><button className="dropbtn">Jump To</button>
+                        <div className='dropdown-content'>
+                            <a href='#'>List of hotlines</a>
+                            <a href='#'>Online Therapy</a>
+                            <a href='#'>Mental Health Information</a>
+                        </div>
+                        </div>
+                            </li> {/* this buttons gonna be a dropdown */}
                         <li><a href="aboutus">About Us</a></li> {/* about us page */}
                     </ul>        
                 </div>
