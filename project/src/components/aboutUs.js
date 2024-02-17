@@ -1,6 +1,6 @@
 import './aboutUs.css'
 
-function aboutUs(){
+function AboutUs(){
     return(
         <section className='aboutUs'>
 
@@ -10,4 +10,4 @@ function aboutUs(){
     );
 }
 
-export default aboutUs;
+export default AboutUs;
