@@ -50,19 +50,51 @@ function Homepage(){
                     </ul>
                 </div>
 
-                <div id='mh-info' className="mental-health-cat">
-                    <h1>Mental Health Information</h1>
-                    <ul>
-                        <li><a href="https://www.samhsa.gov/mental-health">SAMHSA</a></li>
-                        <li><a href="https://www.cdc.gov/mentalhealth/learn/index.htm">CDC</a></li>
-                        <li><a href="https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response">WHO</a></li>
-                    </ul>
-                </div>
+                <div id='mh-info' class="mental-health-cat">
+    <h1>Mental Health Information</h1>
+    <h2>Diseases associated with mental health issues</h2>
+    <ul>
+        <li>
+            <h3>Anxiety</h3>
+            <ul>
+                <li><a href="https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml">NIMH - Anxiety Disorders</a></li>
+                <li><a href="https://adaa.org/understanding-anxiety">ADAA - Understanding Anxiety</a></li>
+            </ul>
+        </li>
+        <li>
+            <h3>Depression</h3>
+            <ul>
+                <li><a href="https://www.nimh.nih.gov/health/topics/depression/index.shtml">NIMH - Depression</a></li>
+                <li><a href="https://www.mayoclinic.org/diseases-conditions/depression/symptoms-causes/syc-20356007">Mayo Clinic - Depression</a></li>
+            </ul>
+        </li>
+        <li>
+            <h3>Bi-Polar Disorder</h3>
+            <ul>
+                <li><a href="https://www.nimh.nih.gov/health/topics/bipolar-disorder/index.shtml">NIMH - Bipolar Disorder</a></li>
+                <li><a href="https://www.psychiatry.org/patients-families/bipolar-disorders/what-are-bipolar-disorders">American Psychiatric Association - Bipolar Disorders</a></li>
+            </ul>
+        </li>
+        <li>
+            <h3>PTSD (Post-Traumatic Stress Disorder)</h3>
+            <ul>
+                <li><a href="https://www.ptsd.va.gov/">VA National Center for PTSD</a></li>
+                <li><a href="https://www.mayoclinic.org/diseases-conditions/post-traumatic-stress-disorder/symptoms-causes/syc-20355967">Mayo Clinic - PTSD</a></li>
+            </ul>
+        </li>
+    </ul>
 
-                {/* add more categories of mental health resources, leave list items as filler content for now */}
+    <h2>Additional Resources</h2>
+    <ul>
+        <li><a href="https://www.samhsa.gov/mental-health">SAMHSA</a></li>
+        <li><a href="https://www.cdc.gov/mentalhealth/learn/index.htm">CDC</a></li>
+        <li><a href="https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response">WHO</a></li>
+    </ul>
+</div>
 
-            </div>
-        </section>
+    </div>
+</section>
+
     );
 }
 
