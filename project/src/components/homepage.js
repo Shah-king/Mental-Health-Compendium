@@ -115,9 +115,6 @@ function Homepage(){
             </ul>
         </div>
     </div>
-    <script>
-        window.onscroll = function()
-    </script>
 </section>
     );
 }
