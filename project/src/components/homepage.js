@@ -44,54 +44,64 @@ function Homepage(){
                 <div id="online-therapy" className="mental-health-cat">
                     <h1>Online Therapy</h1>
                     <ul>
-                        <li>Talkspace</li>
+                        <li><a href="https://www.talkspace.com/online-therapy/">Talkspace</a></li>
                         <li><a href="https://www.amwell.com/">Amwell</a></li>
                         <li><a href="https://www.betterhelp.com">BetterHelp</a></li>
+                        <li><a href="https://www.teladoc.com/ways-we-help/mental-health/">Teladoc</a></li>
+                        <li><a href="https://calmerry.com/">Calmerry</a></li>
+                        <li><a href="https://openpathcollective.org/">openpathcollective</a></li>
+                        <li><a href="https://www.7cups.com/">.7cups</a></li>
+                        <li><a href="https://www.mdlive.com/">mdlive</a></li>
+                        <li><a href="https://www.teencounseling.com/">TeenCounseling</a></li>
+                        <li><a href="https://www.mytherapist.com/">MyTherapist</a></li>
+                        <li><a href='https://www.talkiatry.com'>Talkiatry</a></li>
+                        <li><a href='https://www.brightside.com'>Brightside</a></li>
+                        <li><a href="https://thriveworks.com">Thriveworks</a></li>
                     </ul>
                 </div>
 
                 <div id='mh-info' class="mental-health-cat">
-    <h1>Mental Health Information</h1>
-    <h2>Diseases associated with mental health issues</h2>
-    <ul>
-        <li>
-            <h3>Anxiety</h3>
-            <ul>
-                <li><a href="https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml">NIMH - Anxiety Disorders</a></li>
-                <li><a href="https://adaa.org/understanding-anxiety">ADAA - Understanding Anxiety</a></li>
-            </ul>
-        </li>
-        <li>
-            <h3>Depression</h3>
-            <ul>
-                <li><a href="https://www.nimh.nih.gov/health/topics/depression/index.shtml">NIMH - Depression</a></li>
-                <li><a href="https://www.mayoclinic.org/diseases-conditions/depression/symptoms-causes/syc-20356007">Mayo Clinic - Depression</a></li>
-            </ul>
-        </li>
-        <li>
-            <h3>Bi-Polar Disorder</h3>
-            <ul>
-                <li><a href="https://www.nimh.nih.gov/health/topics/bipolar-disorder/index.shtml">NIMH - Bipolar Disorder</a></li>
-                <li><a href="https://www.psychiatry.org/patients-families/bipolar-disorders/what-are-bipolar-disorders">American Psychiatric Association - Bipolar Disorders</a></li>
-            </ul>
-        </li>
-        <li>
-            <h3>PTSD (Post-Traumatic Stress Disorder)</h3>
-            <ul>
-                <li><a href="https://www.ptsd.va.gov/">VA National Center for PTSD</a></li>
-                <li><a href="https://www.mayoclinic.org/diseases-conditions/post-traumatic-stress-disorder/symptoms-causes/syc-20355967">Mayo Clinic - PTSD</a></li>
-            </ul>
-        </li>
-    </ul>
+                <h1>Mental Health Information</h1>
+                <ul>
+                <li>
+                    <h2>Anxiety</h2>
+                    <ul>
+                        <li><a href="https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml">NIMH - Anxiety Disorders</a></li>
+                        <li><a href="https://adaa.org/understanding-anxiety">ADAA - Understanding Anxiety</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h2>Depression</h2>
+                    <ul>
+                        <li><a href="https://www.nimh.nih.gov/health/topics/depression/index.shtml">NIMH - Depression</a></li>
+                        <li><a href="https://www.mayoclinic.org/diseases-conditions/depression/symptoms-causes/syc-20356007">Mayo Clinic - Depression</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h2>Bi-Polar Disorder</h2>
+                    <ul>
+                        <li><a href="https://www.nimh.nih.gov/health/topics/bipolar-disorder/index.shtml">NIMH - Bipolar Disorder</a></li>
+                        <li><a href="https://www.psychiatry.org/patients-families/bipolar-disorders/what-are-bipolar-disorders">American Psychiatric Association - Bipolar Disorders</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h2>PTSD (Post-Traumatic Stress Disorder)</h2>
+                    <ul>
+                        <li><a href="https://www.ptsd.va.gov/">VA National Center for PTSD</a></li>
+                        <li><a href="https://www.mayoclinic.org/diseases-conditions/post-traumatic-stress-disorder/symptoms-causes/syc-20355967">Mayo Clinic - PTSD</a></li>
+                    </ul>
+                </li>
 
-    <h2>Additional Resources</h2>
-    <ul>
-        <li><a href="https://www.samhsa.gov/mental-health">SAMHSA</a></li>
-        <li><a href="https://www.cdc.gov/mentalhealth/learn/index.htm">CDC</a></li>
-        <li><a href="https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response">WHO</a></li>
-    </ul>
-</div>
-
+                <li>
+                <h2>Additional Resources</h2>
+                <ul>
+                    <li><a href="https://www.samhsa.gov/mental-health">SAMHSA</a></li>
+                    <li><a href="https://www.cdc.gov/mentalhealth/learn/index.htm">CDC</a></li>
+                    <li><a href="https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response">WHO</a></li>
+                </ul>
+                </li>
+            </ul>
+        </div>
     </div>
 </section>
 
