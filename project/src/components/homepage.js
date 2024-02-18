@@ -44,9 +44,11 @@ function Homepage(){
                 <div id="online-therapy" className="mental-health-cat">
                     <h1>Online Therapy</h1>
                     <ul>
-                        <li>Talkspace</li>
+                        <li><a href="https://www.talkspace.com/online-therapy/"></a>Talkspace</li>
                         <li><a href="https://www.amwell.com/">Amwell</a></li>
                         <li><a href="https://www.betterhelp.com">BetterHelp</a></li>
+                        <li><a href="https://www.verywellmind.com/best-online-therapy-4691206">verywellmind</a></li>
+                        <li><a href="https://www.teladoc.com/ways-we-help/mental-health/">Teladoc</a></li>
                     </ul>
                 </div>
 
