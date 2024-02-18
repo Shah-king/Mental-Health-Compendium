@@ -48,6 +48,12 @@ function Homepage(){
                         <li><a href="https://www.amwell.com/">Amwell</a></li>
                         <li><a href="https://www.betterhelp.com">BetterHelp</a></li>
                         <li><a href="https://www.teladoc.com/ways-we-help/mental-health/">Teladoc</a></li>
+                        <li><a href="https://calmerry.com/">calmerry</a></li>
+                        <li><a herf="https://openpathcollective.org/">openpathcollective</a></li>
+                        <li><a href="https://www.7cups.com/">.7cups</a></li>
+                        <li><a href="https://www.mdlive.com/">mdlive</a></li>
+                        <li><a href="https://www.teencounseling.com/">teencounseling</a></li>
+                        <li><a href="https://www.mytherapist.com/">mytherapist</a></li>
                         <li><a href='https://www.talkiatry.com'>Talkiatry</a></li>
                         <li><a href='https://www.brightside.com'>Brightside</a></li>
                         <li><a href="https://thriveworks.com">Thriveworks</a></li>
