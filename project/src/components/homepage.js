@@ -68,6 +68,9 @@ function Homepage(){
             <ul>
                 <li><a href="https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml">NIMH - Anxiety Disorders</a></li>
                 <li><a href="https://adaa.org/understanding-anxiety">ADAA - Understanding Anxiety</a></li>
+                <li><a href="https://www.headspace.com/">headspace</a></li>
+                <li><a href="https://www.calmclinic.com/">calmclinic</a></li>
+                <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3336928/#:~:text=Mindfulness%20Based%20Stress%20Reduction%20(MBSR,hypertension%2C%20skin%20and%20immune%20disorders.">ncbi</a></li>
             </ul>
         </li>
         <li>
@@ -75,6 +78,10 @@ function Homepage(){
             <ul>
                 <li><a href="https://www.nimh.nih.gov/health/topics/depression/index.shtml">NIMH - Depression</a></li>
                 <li><a href="https://www.mayoclinic.org/diseases-conditions/depression/symptoms-causes/syc-20356007">Mayo Clinic - Depression</a></li>
+                <li><a href="https://www.nami.org/About-Mental-Illness/Mental-Health-Conditions/Depression">NAMI</a></li>
+                <li><a href="https://www.dbsalliance.org/">dbsalliance</a></li>
+                <li><a href="https://www.verywellmind.com/best-depression-resources-and-organizations-5114534">verywellmind</a></li>
+                <li><a href="https://arraybc.com/patients/ga?utm_source=Google&utm_medium=cpc&utm_campaign=Patient%20Lead%20Gen%20NY&gad_source=1">arraybc</a></li>
             </ul>
         </li>
         <li>
@@ -82,6 +89,9 @@ function Homepage(){
             <ul>
                 <li><a href="https://www.nimh.nih.gov/health/topics/bipolar-disorder/index.shtml">NIMH - Bipolar Disorder</a></li>
                 <li><a href="https://www.psychiatry.org/patients-families/bipolar-disorders/what-are-bipolar-disorders">American Psychiatric Association - Bipolar Disorders</a></li>
+                <li><a href="https://ibpf.org/">ibpf</a></li>
+                <li><a href="https://www.bipolaruk.org/">bipolaruk</a></li>
+                <li><a href="https://www.guilford.com/books/The-Bipolar-Disorder-Survival-Guide/David-Miklowitz/9781462534982">guilford</a></li>
             </ul>
         </li>
         <li>
@@ -89,6 +99,9 @@ function Homepage(){
             <ul>
                 <li><a href="https://www.ptsd.va.gov/">VA National Center for PTSD</a></li>
                 <li><a href="https://www.mayoclinic.org/diseases-conditions/post-traumatic-stress-disorder/symptoms-causes/syc-20355967">Mayo Clinic - PTSD</a></li>
+                <li><a href="https://www.traumaticstressinstitute.org/sidran-redirect/">traumaticstressinstitute</a></li>
+                <li><a href="https://web.ptsdunited.org/">ptsdunited</a></li>
+                <li><a href="https://www.maketheconnection.net/">maketheconnection</a></li>
             </ul>
         </li>
     </ul>
