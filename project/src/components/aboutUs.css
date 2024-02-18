@@ -1,0 +1,46 @@
+.mental-health-cat{
+    h1{ 
+        padding: 0px 4px 0px 4px;
+        font-weight: bold;
+        font-size: 25px;
+    }
+
+    p{
+        padding: 0px 4px 0px 4px;
+        text-align:left;
+        font-size: 18px;
+    }
+
+    ul{
+        list-style-type: none;
+    }    
+}
+
+.mental-cat{
+    h1{ 
+        padding: 0px 4px 0px 4px;
+        font-weight: bold;
+        font-size: 25px;
+    }
+
+    p{
+        padding: 0px 4px 0px 4px;
+        text-align:left;
+        font-size: 18px;
+    }
+
+    ul{
+        list-style-type: none;
+    }    
+}
+
+.header .cat-city{
+    p1{
+        
+        text-align: center;
+        font-size: 18px;
+    }
+
+
+
+}
