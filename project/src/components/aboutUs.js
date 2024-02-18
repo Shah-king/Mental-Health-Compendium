@@ -40,7 +40,29 @@ function AboutUs(){
                 <h1>Who We Are</h1>
                     <p>Our team is a diverse group of individuals brought together by a common goal - making mental health resources accessible to everyone. From developers and designers to mental health advocates, each member plays a crucial role in creating a platform that makes a positive impact.
                         </p>
-                        
+
+            <div id="Rafid-int" className="mental-health-cat"/>
+                <h1>Rafid Zia</h1>
+                    <p>Hello there! I'm Rafid Zia, a junior studying Computer Science at the City College of New York. I am a resident of Queens and have lived in New York since I was born. I got into Computer Science because I had a great passion for video games as a young child, and always wanted to pursue Game Development as a career. My ultimate goal is to become a world-class video game developer, ideally at Nintendo or at my game studio. In my free time, I like hitting the gym, hanging out with my friends, and watching anime. I hope this resource center will be of great use to you, as it is to us! :D
+</p>
+            <div id="Bilal-int" className="mental-health-cat"/>
+                <h1>Bilal Qaiser</h1>
+                    <p>Hi, I'm Bilal Qaiser, a junior studying computer science at John Jay College of Criminal Justice. I'm currently a resident of Queens, but I'm originally from Brooklyn. I pursued a degree in computer science because I Always loved to figure out how things worked and dreamed of designing my gadgets. My dream is to one day be able to work in product design and development for companies like Sony or Microsoft. In my free time I like to build model kits, hang out with friends, and do a bit of photography. I hope that the mental health resources on this site are of use to people struggling with their mental health and can help alleviate some of the stress that comes with trying to find appropriate treatment.
+</p>
+            
+            <div id="Shahriar-int" className="mental-health-cat"/>
+                <h1>Shahriar Ferdous</h1>
+                    <p>Hello fellows! I am Shahriar Ferdous, a sophomore studying computer science at Hunter College. I am currently residing in Brooklyn, NY. I came to the United States of America 6 years ago. I got into computer science because coding seems interesting to me and the things you can build with coding can have a lot of impact on the trajectory of our lifestyle. I hope to work in the data science field in the future as I have seen how data is a precious element of our everyday life and at every moment we are creating data. I love to play soccer, go to the gym, and play video games. I hope this website is great for people coping with mental health issues as it has become an epidemic in the 21st century affecting people of all age groups.
+</p>
+
+            <div id="end-message" className="mental-health-cat"/>
+                <p1>Thank you for visiting the Mental Health Compendium and supporting our mission to make mental health resources accessible to all.
+</p1>
+                <p1>Remember, you're not alone - we're here for you.
+</p1>
+
+
+            
         </section>
     );
 }
