@@ -6,8 +6,7 @@ function Homepage(){
     return(
         <section className='homepage'>
             <div className='header'>
-                <div className='title'>
-                    HackCUNY Mental Health Project</div>
+                <div className='title'>Mental Health Compendium</div>
                 <div className='navbar'>
                     <ul>
                         <li><a href="home">Home</a></li>
@@ -64,28 +63,28 @@ function Homepage(){
                 <h1>Mental Health Information</h1>
                 <ul>
                 <li>
-                    <h2>Anxiety</h2>
+                    <h2 id='anxiety'>Anxiety</h2>
                     <ul>
                         <li><a href="https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml">NIMH - Anxiety Disorders</a></li>
                         <li><a href="https://adaa.org/understanding-anxiety">ADAA - Understanding Anxiety</a></li>
                     </ul>
                 </li>
                 <li>
-                    <h2>Depression</h2>
+                    <h2 id='depression'>Depression</h2>
                     <ul>
                         <li><a href="https://www.nimh.nih.gov/health/topics/depression/index.shtml">NIMH - Depression</a></li>
                         <li><a href="https://www.mayoclinic.org/diseases-conditions/depression/symptoms-causes/syc-20356007">Mayo Clinic - Depression</a></li>
                     </ul>
                 </li>
                 <li>
-                    <h2>Bi-Polar Disorder</h2>
+                    <h2 id='bpd'>Bi-Polar Disorder</h2>
                     <ul>
                         <li><a href="https://www.nimh.nih.gov/health/topics/bipolar-disorder/index.shtml">NIMH - Bipolar Disorder</a></li>
                         <li><a href="https://www.psychiatry.org/patients-families/bipolar-disorders/what-are-bipolar-disorders">American Psychiatric Association - Bipolar Disorders</a></li>
                     </ul>
                 </li>
                 <li>
-                    <h2>PTSD (Post-Traumatic Stress Disorder)</h2>
+                    <h2 id='ptsd'>PTSD (Post-Traumatic Stress Disorder)</h2>
                     <ul>
                         <li><a href="https://www.ptsd.va.gov/">VA National Center for PTSD</a></li>
                         <li><a href="https://www.mayoclinic.org/diseases-conditions/post-traumatic-stress-disorder/symptoms-causes/syc-20355967">Mayo Clinic - PTSD</a></li>
@@ -103,8 +102,10 @@ function Homepage(){
             </ul>
         </div>
     </div>
+    <script>
+        window.onscroll = function()
+    </script>
 </section>
-
     );
 }
 
